@@ -10,3 +10,10 @@
 - Hipotesis semana 2: titular con NUMERO verificable (lun "8 leyes", vie "7 dias / 5 cupos") vs titular EMOCIONAL (mar "Tu tiempo vale mas que un PDF", mie "7:40 antes de la audiencia"). Comparar mensajes con palabra LEXA.
 - Aplicado de semana 1: mas profundidad (texto detras de Edu, rayos, brillo), sin verde, logo sin fondo, un solo CTA por pieza, nada de cifras inventadas (solo 8 leyes, 7 dias, 5 cupos confirmados por Edu).
 - Pendiente de Edu: testimonios reales de abogados fundadores (no se usan hasta tenerlos), foto nueva (no hay fotos nuevas en assets: se uso edu-cut), confirmar que "BOT" es la palabra clave para el bot de WhatsApp (pieza jueves), tendencias de la semana (no se busco en web en esta corrida).
+
+## Semana 3 (19-25 oct 2026) - Lexa tercera ola + bots WhatsApp + marca personal
+- Revision semana 2: sin metricas disponibles en esta corrida (no hay acceso a Meta Business Suite desde la rutina). PENDIENTE: Edu pasa alcance y mensajes con palabra LEXA de la semana 1 (afirmacion vs pregunta) y la semana 2 (numero vs emocional). No se inventan cifras.
+- Hipotesis semana 3: FOTO COMPLETA de oficina a pantalla completa (lun, sab) vs RECORTE de Edu sobre fondo de marca (mar y resto). Comparar mensajes con palabra LEXA lun vs mar (mismo producto, mismo CTA).
+- Aplicado: un solo CTA por pieza, sin verde, logo sin fondo, solo datos confirmados (8 leyes, 7 dias, 5 cupos, no guarda consultas, cita su articulo). Sin testimonios ni cifras nuevas.
+- Foto nueva: no hay fotos nuevas en assets; se uso hero2 (oficina) por primera vez a pantalla completa, ademas de edu-cut. La resolucion es baja (734x1100): se ve algo suave al ampliar.
+- Pendiente de Edu: metricas; testimonios reales de abogados fundadores; confirmar palabra clave del bot de WhatsApp (jueves usa "escribeme" sin palabra clave); tendencias de la semana (esta corrida no busco en web); foto nueva en alta resolucion.

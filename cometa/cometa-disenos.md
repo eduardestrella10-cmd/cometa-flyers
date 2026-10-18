@@ -14,3 +14,14 @@ Semana 2 (Lexa + bots): 7 piezas con DISENO NUEVO, subiendo un nivel.
 7 Dom "Tu criterio. Mi IA.": editorial crema, Edu en arco con aro naranja. Gancho: marca personal.
 Resultados: (pendiente de metricas). Regla: la semana 3 no repetir estas composiciones; probar un efecto nuevo (ej. foto en recorte con tipografia que envuelve, o collage).
 Generador: cometa/generador/build2.py (reutiliza build.py).
+
+Semana 3 (Lexa + bots + marca personal): 7 piezas con DISENO NUEVO. Efectos nuevos: foto completa de oficina con degradado, telefono gigante inclinado, pantalla dividida antes/ahora, foto dentro de burbuja de chat, fila de 5 asientos, sticker de pregunta, bento editorial.
+1 Lun "SIN INVENTAR." foto de oficina a pantalla completa + titular gigante. Gancho: afirmacion de confianza. (Hipotesis A)
+2 Mar "Tu biblioteca legal en tu bolsillo" telefono inclinado con chat de Lexa + Edu recorte. Gancho: comodidad. (Hipotesis B)
+3 Mie story "ANTES / AHORA" pantalla dividida gris (documentos) vs marino (Lexa). Gancho: contraste.
+4 Jue "Tu negocio responde." (Star Studio, bots WhatsApp) foto de Edu en burbuja de chat con cola. Gancho: beneficio.
+5 Vie "5 CUPOS. 7 DIAS GRATIS." fila de 5 asientos con estrella del logo. Gancho: escasez real confirmada.
+6 Sab story "Preguntame sobre Lexa" foto completa + sticker de pregunta inclinado. Gancho: conversacion.
+7 Dom "Planea. / Ejecuta." bento editorial (Edu Star personal). Gancho: motivacion.
+Resultados: (pendiente de metricas). Regla: semana 4 no repetir; probar efecto nuevo (ej. video/reel guion, tipografia que envuelve al recorte, collage de recortes, mascota de Lexa).
+Generador: cometa/generador/build3.py (reutiliza build.py).
